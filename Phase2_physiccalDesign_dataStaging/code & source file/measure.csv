@@ -1,0 +1,28 @@
+﻿Title,City,Start date,End date,Private indoor gathering limit,Private outdoor gathering limit,Public indoor gathering limit,Public outdoor gathering limit,Indoor religious services rites or ceremonies limit,Outdoor religious services rites or ceremonies limit,mask requird,Self-isolating,Essential service,Entertainment service,School/work,Restaurant patrons seated indoors
+Stage 3,Ottawa,2020-07-17,2020-10-09,50,100,50,100,50,100,Yes,14 days,Open,Has constraint,Online,N/A
+Stage 3,York,2020-07-24,2020-10-18,50,100,50,100,50,100,Yes,14 days,Open,Has constraint,Online,N/A
+Stage 3,Peel,2020-07-31,2020-10-09,50,100,50,100,50,100,Yes,14 days,Open,Has constraint,Online,N/A
+Stage 3,Toronto,2020-07-31,2020-10-09,50,100,50,100,50,100,Yes,14 days,Open,Has constraint,Online,N/A
+Stage 3,Durham,2020-07-24,2020-11-06,50,100,50,100,50,100,Yes,14 days,Open,Has constraint,Online,N/A
+Stage 3,Halton,2020-07-24,2020-11-06,50,100,50,100,50,100,Yes,14 days,Open,Has constraint,Online,N/A
+Modified Stage 2,Ottawa,2020-10-10,2020-11-06,10,25,10,25,10,25,Yes,14 days,Open,Has constraint,Online,N/A
+Modified Stage 2,York,2020-10-19,2020-11-06,10,25,10,25,10,25,Yes,14 days,Open,Has constraint,Online,N/A
+Modified Stage 2,Peel,2020-10-10,2020-11-06,10,25,10,25,10,25,Yes,14 days,Open,Has constraint,Online,N/A
+Modified Stage 2,Toronto,2020-10-10,2020-11-06,10,25,10,25,10,25,Yes,14 days,Open,Has constraint,Online,N/A
+Yellow Zone,Durham,2020-11-07,2020-11-15,10,25,50,100,30 persent capacity of the room indoors,100,Yes,14 days,Open,Has constraint,Online,N/A
+Yellow Zone,Halton,2020-11-07,2020-11-15,10,25,50,100,30 persent capacity of the room indoors,100,Yes,14 days,Open,Has constraint,Online,N/A
+Orange Zone,Ottawa,2020-11-07,2020-12-25,10,25,50,100,30 persent capacity of the room indoors,100,Yes,14 days,Open,Has constraint,Online,50
+Orange Zone,York,2020-11-07,2020-11-15,10,25,50,100,30 persent capacity of the room indoors,100,Yes,14 days,Open,Has constraint,Online,50
+Red Zone,Peel,2020-11-07,2020-12-20,0,0,5,25,30 persent capacity of the room indoors,100,Yes,14 days,Open,Has constraint,Online,10
+Orange Zone,Toronto,2020-11-07,2020-11-13,10,25,50,100,30 persent capacity of the room indoors,100,Yes,14 days,Open,Has constraint,Online,50
+Orange Zone,Durham,2020-11-16,2020-12-20,10,25,50,100,30 persent capacity of the room indoors,100,Yes,14 days,Open,Has constraint,Online,50
+Red Zone,Halton,2020-11-16,2020-12-25,0,0,5,25,30 persent capacity of the room indoors,100,Yes,14 days,Open,Has constraint,Online,10
+Grey Zone,Ottawa,2020-12-26,2021-01-23,0,0,0,10,10,10,Yes,14 days,Open,Closure,Online,Closure
+Red Zone,York,2020-11-16,2020-12-13,0,0,5,25,30 persent capacity of the room indoors,100,Yes,14 days,Open,Has constraint,Online,10
+Grey Zone,Peel,2020-12-21,2021-01-23,0,0,0,10,10,10,Yes,14 days,Open,Closure,Online,Closure
+Red Zone,Toronto,2020-11-14,2020-12-20,0,0,5,25,30 persent capacity of the room indoors,100,Yes,14 days,Open,Has constraint,Online,10
+Red Zone,Durham,2020-12-21,2020-12-25,0,0,5,25,30 persent capacity of the room indoors,100,Yes,14 days,Open,Has constraint,Online,10
+Grey Zone,Halton,2020-12-26,2021-01-23,0,0,0,10,10,10,Yes,14 days,Open,Closure,Online,Closure
+Grey Zone,York,2020-12-14,2021-01-23,0,0,0,10,10,10,Yes,14 days,Open,Closure,Online,Closure
+Grey Zone,Toronto,2020-12-21,2021-01-23,0,0,0,10,10,10,Yes,14 days,Open,Closure,Online,Closure
+Grey Zone,Durham,2020-12-26,2021-01-23,0,0,0,10,10,10,Yes,14 days,Open,Closure,Online,Closure
